@@ -41,7 +41,7 @@ export default function Animacao() {
     
     <View style={{ flex: 1 }}> 
     <StatusBar backgroundColor={"#FFFFFF"} barStyle="light-content" transLucent={false} />
-    <Animated.View
+    {/*<Animated.View
       style={{
           position: 'absolute',
           top: 0,
